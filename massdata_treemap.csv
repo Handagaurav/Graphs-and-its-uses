@@ -1,0 +1,377 @@
+,County,Indicators,Values
+1,Barnstable,Physically Unhealthy Days,3
+2,Berkshire,Physically Unhealthy Days,3.7
+3,Bristol,Physically Unhealthy Days,3.6
+4,Dukes,Physically Unhealthy Days,3.3
+5,Essex,Physically Unhealthy Days,3.3
+6,Franklin,Physically Unhealthy Days,3.7
+7,Hampden,Physically Unhealthy Days,4.2
+8,Hampshire,Physically Unhealthy Days,3.7
+9,Middlesex,Physically Unhealthy Days,3
+10,Nantucket,Physically Unhealthy Days,3.3
+11,Norfolk,Physically Unhealthy Days,2.9
+12,Plymouth,Physically Unhealthy Days,3.6
+13,Suffolk,Physically Unhealthy Days,3.6
+14,Worcester,Physically Unhealthy Days,3.5
+15,Barnstable,Mentally Unhealthy Days,3.9
+16,Berkshire,Mentally Unhealthy Days,4.5
+17,Bristol,Mentally Unhealthy Days,4.7
+18,Dukes,Mentally Unhealthy Days,4
+19,Essex,Mentally Unhealthy Days,3.9
+20,Franklin,Mentally Unhealthy Days,4.5
+21,Hampden,Mentally Unhealthy Days,4.5
+22,Hampshire,Mentally Unhealthy Days,4.3
+23,Middlesex,Mentally Unhealthy Days,3.5
+24,Nantucket,Mentally Unhealthy Days,3.9
+25,Norfolk,Mentally Unhealthy Days,3.7
+26,Plymouth,Mentally Unhealthy Days,4.2
+27,Suffolk,Mentally Unhealthy Days,4.1
+28,Worcester,Mentally Unhealthy Days,3.9
+29,Barnstable,% Smokers,13
+30,Berkshire,% Smokers,15
+31,Bristol,% Smokers,18
+32,Dukes,% Smokers,13
+33,Essex,% Smokers,14
+34,Franklin,% Smokers,16
+35,Hampden,% Smokers,18
+36,Hampshire,% Smokers,14
+37,Middlesex,% Smokers,11
+38,Nantucket,% Smokers,15
+39,Norfolk,% Smokers,12
+40,Plymouth,% Smokers,16
+41,Suffolk,% Smokers,14
+42,Worcester,% Smokers,16
+43,Barnstable,% Obese,20
+44,Berkshire,% Obese,25
+45,Bristol,% Obese,29
+46,Dukes,% Obese,23
+47,Essex,% Obese,25
+48,Franklin,% Obese,27
+49,Hampden,% Obese,29
+50,Hampshire,% Obese,20
+51,Middlesex,% Obese,23
+52,Nantucket,% Obese,23
+53,Norfolk,% Obese,22
+54,Plymouth,% Obese,29
+55,Suffolk,% Obese,21
+56,Worcester,% Obese,27
+57,Barnstable,% Physically Inactive ,15
+58,Berkshire,% Physically Inactive ,21
+59,Bristol,% Physically Inactive ,24
+60,Dukes,% Physically Inactive ,18
+61,Essex,% Physically Inactive ,21
+62,Franklin,% Physically Inactive ,19
+63,Hampden,% Physically Inactive ,25
+64,Hampshire,% Physically Inactive ,16
+65,Middlesex,% Physically Inactive ,18
+66,Nantucket,% Physically Inactive ,17
+67,Norfolk,% Physically Inactive ,19
+68,Plymouth,% Physically Inactive ,23
+69,Suffolk,% Physically Inactive ,18
+70,Worcester,% Physically Inactive ,21
+71,Barnstable,% Excessive Drinking,20
+72,Berkshire,% Excessive Drinking,19
+73,Bristol,% Excessive Drinking,20
+74,Dukes,% Excessive Drinking,22
+75,Essex,% Excessive Drinking,19
+76,Franklin,% Excessive Drinking,21
+77,Hampden,% Excessive Drinking,20
+78,Hampshire,% Excessive Drinking,24
+79,Middlesex,% Excessive Drinking,20
+80,Nantucket,% Excessive Drinking,23
+81,Norfolk,% Excessive Drinking,21
+82,Plymouth,% Excessive Drinking,22
+83,Suffolk,% Excessive Drinking,26
+84,Worcester,% Excessive Drinking,21
+85,Barnstable,# Alcohol-Impaired Driving Deaths,20
+86,Berkshire,# Alcohol-Impaired Driving Deaths,14
+87,Bristol,# Alcohol-Impaired Driving Deaths,68
+88,Dukes,# Alcohol-Impaired Driving Deaths,1
+89,Essex,# Alcohol-Impaired Driving Deaths,34
+90,Franklin,# Alcohol-Impaired Driving Deaths,10
+91,Hampden,# Alcohol-Impaired Driving Deaths,50
+92,Hampshire,# Alcohol-Impaired Driving Deaths,10
+93,Middlesex,# Alcohol-Impaired Driving Deaths,54
+94,Nantucket,# Alcohol-Impaired Driving Deaths,0
+95,Norfolk,# Alcohol-Impaired Driving Deaths,59
+96,Plymouth,# Alcohol-Impaired Driving Deaths,73
+97,Suffolk,# Alcohol-Impaired Driving Deaths,43
+98,Worcester,# Alcohol-Impaired Driving Deaths,86
+99,Barnstable,# Chlamydia Cases,194
+100,Berkshire,# Chlamydia Cases,122
+101,Bristol,# Chlamydia Cases,1759
+102,Dukes,# Chlamydia Cases,16
+103,Essex,# Chlamydia Cases,2637
+104,Franklin,# Chlamydia Cases,93
+105,Hampden,# Chlamydia Cases,2262
+106,Hampshire,# Chlamydia Cases,362
+107,Middlesex,# Chlamydia Cases,4729
+108,Nantucket,# Chlamydia Cases,31
+109,Norfolk,# Chlamydia Cases,3436
+110,Plymouth,# Chlamydia Cases,1647
+111,Suffolk,# Chlamydia Cases,2334
+112,Worcester,# Chlamydia Cases,2582
+113,Barnstable,# Uninsured,4663
+114,Berkshire,# Uninsured,3117
+115,Bristol,# Uninsured,14881
+116,Dukes,# Uninsured,566
+117,Essex,# Uninsured,21253
+118,Franklin,# Uninsured,1587
+119,Hampden,# Uninsured,13665
+120,Hampshire,# Uninsured,2992
+121,Middlesex,# Uninsured,35016
+122,Nantucket,# Uninsured,387
+123,Norfolk,# Uninsured,11891
+124,Plymouth,# Uninsured,10660
+125,Suffolk,# Uninsured,25518
+126,Worcester,# Uninsured,19221
+127,Barnstable,# Primary Care Physicians,212
+128,Berkshire,# Primary Care Physicians,136
+129,Bristol,# Primary Care Physicians,290
+130,Dukes,# Primary Care Physicians,12
+131,Essex,# Primary Care Physicians,593
+132,Franklin,# Primary Care Physicians,55
+133,Hampden,# Primary Care Physicians,334
+134,Hampshire,# Primary Care Physicians,221
+135,Middlesex,# Primary Care Physicians,2019
+136,Nantucket,# Primary Care Physicians,6
+137,Norfolk,# Primary Care Physicians,880
+138,Plymouth,# Primary Care Physicians,327
+139,Suffolk,# Primary Care Physicians,1172
+140,Worcester,# Primary Care Physicians,820
+141,Barnstable,# Dentists,217
+142,Berkshire,# Dentists,109
+143,Bristol,# Dentists,369
+144,Dukes,# Dentists,11
+145,Essex,# Dentists,692
+146,Franklin,# Dentists,50
+147,Hampden,# Dentists,389
+148,Hampshire,# Dentists,115
+149,Middlesex,# Dentists,1555
+150,Nantucket,# Dentists,9
+151,Norfolk,# Dentists,835
+152,Plymouth,# Dentists,373
+153,Suffolk,# Dentists,1632
+154,Worcester,# Dentists,604
+155,Barnstable,# Mental Health Providers,1042
+156,Berkshire,# Mental Health Providers,1010
+157,Bristol,# Mental Health Providers,2542
+158,Dukes,# Mental Health Providers,100
+159,Essex,# Mental Health Providers,4088
+160,Franklin,# Mental Health Providers,529
+161,Hampden,# Mental Health Providers,3915
+162,Hampshire,# Mental Health Providers,1323
+163,Middlesex,# Mental Health Providers,8277
+164,Nantucket,# Mental Health Providers,37
+165,Norfolk,# Mental Health Providers,3877
+166,Plymouth,# Mental Health Providers,2524
+167,Suffolk,# Mental Health Providers,5968
+168,Worcester,# Mental Health Providers,3840
+169,Barnstable,% Mamography Screened,56
+170,Berkshire,% Mamography Screened,51
+171,Bristol,% Mamography Screened,57
+172,Dukes,% Mamography Screened,48
+173,Essex,% Mamography Screened,55
+174,Franklin,% Mamography Screened,49
+175,Hampden,% Mamography Screened,51
+176,Hampshire,% Mamography Screened,53
+177,Middlesex,% Mamography Screened,54
+178,Nantucket,% Mamography Screened,48
+179,Norfolk,% Mamography Screened,54
+180,Plymouth,% Mamography Screened,56
+181,Suffolk,% Mamography Screened,47
+182,Worcester,% Mamography Screened,54
+183,Barnstable,% Vaccinated,51
+184,Berkshire,% Vaccinated,50
+185,Bristol,% Vaccinated,51
+186,Dukes,% Vaccinated,53
+187,Essex,% Vaccinated,51
+188,Franklin,% Vaccinated,52
+189,Hampden,% Vaccinated,51
+190,Hampshire,% Vaccinated,56
+191,Middlesex,% Vaccinated,54
+192,Nantucket,% Vaccinated,38
+193,Norfolk,% Vaccinated,54
+194,Plymouth,% Vaccinated,52
+195,Suffolk,% Vaccinated,47
+196,Worcester,% Vaccinated,51
+197,Barnstable,# Some College,25142
+198,Berkshire,# Some College,17234
+199,Bristol,# Some College,87231
+200,Dukes,# Some College,2830
+201,Essex,# Some College,127547
+202,Franklin,# Some College,11325
+203,Hampden,# Some College,68373
+204,Hampshire,# Some College,25329
+205,Middlesex,# Some College,361911
+206,Nantucket,# Some College,2266
+207,Norfolk,# Some College,144093
+208,Plymouth,# Some College,79211
+209,Suffolk,# Some College,203840
+210,Worcester,# Some College,138707
+211,Barnstable,# Unemployed,5235
+212,Berkshire,# Unemployed,2826
+213,Bristol,# Unemployed,13870
+214,Dukes,# Unemployed,461
+215,Essex,# Unemployed,15663
+216,Franklin,# Unemployed,1332
+217,Hampden,# Unemployed,11228
+218,Hampshire,# Unemployed,3029
+219,Middlesex,# Unemployed,26967
+220,Nantucket,# Unemployed,316
+221,Norfolk,# Unemployed,12465
+222,Plymouth,# Unemployed,10694
+223,Suffolk,# Unemployed,14694
+224,Worcester,# Unemployed,16912
+225,Barnstable,% Children in Poverty,11
+226,Berkshire,% Children in Poverty,16
+227,Bristol,% Children in Poverty,17
+228,Dukes,% Children in Poverty,11
+229,Essex,% Children in Poverty,14
+230,Franklin,% Children in Poverty,14
+231,Hampden,% Children in Poverty,26
+232,Hampshire,% Children in Poverty,10
+233,Middlesex,% Children in Poverty,9
+234,Nantucket,% Children in Poverty,6
+235,Norfolk,% Children in Poverty,7
+236,Plymouth,% Children in Poverty,9
+237,Suffolk,% Children in Poverty,25
+238,Worcester,% Children in Poverty,13
+239,Barnstable,# Single-Parent Households,10071
+240,Berkshire,# Single-Parent Households,8407
+241,Bristol,# Single-Parent Households,40799
+242,Dukes,# Single-Parent Households,1089
+243,Essex,# Single-Parent Households,56661
+244,Franklin,# Single-Parent Households,4058
+245,Hampden,# Single-Parent Households,49429
+246,Hampshire,# Single-Parent Households,7322
+247,Middlesex,# Single-Parent Households,68260
+248,Nantucket,# Single-Parent Households,727
+249,Norfolk,# Single-Parent Households,27125
+250,Plymouth,# Single-Parent Households,31584
+251,Suffolk,# Single-Parent Households,64942
+252,Worcester,# Single-Parent Households,53825
+253,Barnstable,# Associations,267
+254,Berkshire,# Associations,146
+255,Bristol,# Associations,457
+256,Dukes,# Associations,40
+257,Essex,# Associations,692
+258,Franklin,# Associations,87
+259,Hampden,# Associations,416
+260,Hampshire,# Associations,157
+261,Middlesex,# Associations,1503
+262,Nantucket,# Associations,17
+263,Norfolk,# Associations,680
+264,Plymouth,# Associations,432
+265,Suffolk,# Associations,771
+266,Worcester,# Associations,718
+267,Barnstable,# Injury Deaths,853
+268,Berkshire,# Injury Deaths,503
+269,Bristol,# Injury Deaths,2065
+270,Dukes,# Injury Deaths,56
+271,Essex,# Injury Deaths,2446
+272,Franklin,# Injury Deaths,224
+273,Hampden,# Injury Deaths,1522
+274,Hampshire,# Injury Deaths,393
+275,Middlesex,# Injury Deaths,3870
+276,Nantucket,# Injury Deaths,27
+277,Norfolk,# Injury Deaths,1903
+278,Plymouth,# Injury Deaths,1757
+279,Suffolk,# Injury Deaths,2107
+280,Worcester,# Injury Deaths,2406
+281,Barnstable,% Severe Housing Problems,18
+282,Berkshire,% Severe Housing Problems,17
+283,Bristol,% Severe Housing Problems,18
+284,Dukes,% Severe Housing Problems,26
+285,Essex,% Severe Housing Problems,19
+286,Franklin,% Severe Housing Problems,16
+287,Hampden,% Severe Housing Problems,19
+288,Hampshire,% Severe Housing Problems,18
+289,Middlesex,% Severe Housing Problems,17
+290,Nantucket,% Severe Housing Problems,22
+291,Norfolk,% Severe Housing Problems,16
+292,Plymouth,% Severe Housing Problems,16
+293,Suffolk,% Severe Housing Problems,25
+294,Worcester,% Severe Housing Problems,17
+295,Barnstable,% Drive Alone,81
+296,Berkshire,% Drive Alone,78
+297,Bristol,% Drive Alone,82
+298,Dukes,% Drive Alone,74
+299,Essex,% Drive Alone,74
+300,Franklin,% Drive Alone,77
+301,Hampden,% Drive Alone,82
+302,Hampshire,% Drive Alone,71
+303,Middlesex,% Drive Alone,68
+304,Nantucket,% Drive Alone,67
+305,Norfolk,% Drive Alone,69
+306,Plymouth,% Drive Alone,80
+307,Suffolk,% Drive Alone,41
+308,Worcester,% Drive Alone,81
+309,Barnstable,# Workers who Drive Alone,82656
+310,Berkshire,# Workers who Drive Alone,48704
+311,Bristol,# Workers who Drive Alone,222672
+312,Dukes,# Workers who Drive Alone,6363
+313,Essex,# Workers who Drive Alone,289335
+314,Franklin,# Workers who Drive Alone,27792
+315,Hampden,# Workers who Drive Alone,173949
+316,Hampshire,# Workers who Drive Alone,58443
+317,Middlesex,# Workers who Drive Alone,576826
+318,Nantucket,# Workers who Drive Alone,4172
+319,Norfolk,# Workers who Drive Alone,246445
+320,Plymouth,# Workers who Drive Alone,205852
+321,Suffolk,# Workers who Drive Alone,170093
+322,Worcester,# Workers who Drive Alone,327161
+323,Barnstable,# Motor Vehicle Deaths,125
+324,Berkshire,# Motor Vehicle Deaths,91
+325,Bristol,# Motor Vehicle Deaths,345
+327,Essex,# Motor Vehicle Deaths,273
+328,Franklin,# Motor Vehicle Deaths,35
+329,Hampden,# Motor Vehicle Deaths,265
+330,Hampshire,# Motor Vehicle Deaths,49
+331,Middlesex,# Motor Vehicle Deaths,413
+333,Norfolk,# Motor Vehicle Deaths,237
+334,Plymouth,# Motor Vehicle Deaths,286
+335,Suffolk,# Motor Vehicle Deaths,226
+336,Worcester,# Motor Vehicle Deaths,381
+337,Barnstable,% Insufficient Sleep,30
+338,Berkshire,% Insufficient Sleep,31
+339,Bristol,% Insufficient Sleep,36
+340,Dukes,% Insufficient Sleep,29
+341,Essex,% Insufficient Sleep,34
+342,Franklin,% Insufficient Sleep,33
+343,Hampden,% Insufficient Sleep,34
+344,Hampshire,% Insufficient Sleep,30
+345,Middlesex,% Insufficient Sleep,31
+346,Nantucket,% Insufficient Sleep,32
+347,Norfolk,% Insufficient Sleep,31
+348,Plymouth,% Insufficient Sleep,37
+349,Suffolk,% Insufficient Sleep,35
+350,Worcester,% Insufficient Sleep,34
+351,Barnstable,# Homeowners,74862
+352,Berkshire,# Homeowners,37987
+353,Bristol,# Homeowners,135144
+354,Dukes,# Homeowners,4770
+355,Essex,# Homeowners,186007
+356,Franklin,# Homeowners,21024
+357,Hampden,# Homeowners,109475
+358,Hampshire,# Homeowners,38852
+359,Middlesex,# Homeowners,371697
+360,Nantucket,# Homeowners,2438
+361,Norfolk,# Homeowners,181881
+362,Plymouth,# Homeowners,139821
+363,Suffolk,# Homeowners,110361
+364,Worcester,# Homeowners,198010
+365,Barnstable,# Households with Severe Cost Burden,15424
+366,Berkshire,# Households with Severe Cost Burden,7637
+367,Bristol,# Households with Severe Cost Burden,33398
+368,Dukes,# Households with Severe Cost Burden,1298
+369,Essex,# Households with Severe Cost Burden,48581
+370,Franklin,# Households with Severe Cost Burden,4546
+371,Hampden,# Households with Severe Cost Burden,29858
+372,Hampshire,# Households with Severe Cost Burden,9258
+373,Middlesex,# Households with Severe Cost Burden,85893
+374,Nantucket,# Households with Severe Cost Burden,609
+375,Norfolk,# Households with Severe Cost Burden,36503
+376,Plymouth,# Households with Severe Cost Burden,27083
+377,Suffolk,# Households with Severe Cost Burden,65812
+378,Worcester,# Households with Severe Cost Burden,43214
